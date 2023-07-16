@@ -8,4 +8,5 @@ public interface TagRepasitory
     bool IsExistByName(string dtoName);
     void DeleteById(int id);
     bool IsExistById(int id);
+    List<Tag> GetTagsByName(List<string> tagNames);
 }

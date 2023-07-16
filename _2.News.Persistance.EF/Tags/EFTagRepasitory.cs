@@ -38,4 +38,10 @@ public class EFTagRepasitory : TagRepasitory
         return 
         _tags.Any(_ => _.Id == id);
     }
+
+    public List<Tag> GetTagsByName(List<string> tagNames)
+    {
+        return
+            _tags.Where(_ => tagNames.Any(t => t == _.Name)).ToList();
+    }
 }

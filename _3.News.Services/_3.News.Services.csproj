@@ -9,7 +9,6 @@
     <ItemGroup>
       <Folder Include="NewsComments\" />
       <Folder Include="NewsTags\Contracts\Dto\" />
-      <Folder Include="News\Contracts\Dto\" />
     </ItemGroup>
 
     <ItemGroup>
