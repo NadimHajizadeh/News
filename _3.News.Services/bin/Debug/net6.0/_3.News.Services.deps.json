@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_3.News.Services/1.0.0": {
+        "dependencies": {
+          "_4.News.Entities": "1.0.0"
+        },
+        "runtime": {
+          "_3.News.Services.dll": {}
+        }
+      },
+      "_4.News.Entities/1.0.0": {
+        "runtime": {
+          "_4.News.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_3.News.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_4.News.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

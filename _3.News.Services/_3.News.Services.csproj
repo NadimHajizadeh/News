@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="NewsComments\" />
+      <Folder Include="NewsTags\Contracts\Dto\" />
+      <Folder Include="News\Contracts\Dto\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\_4.News.Entities\_4.News.Entities.csproj" />
+    </ItemGroup>
+
+</Project>

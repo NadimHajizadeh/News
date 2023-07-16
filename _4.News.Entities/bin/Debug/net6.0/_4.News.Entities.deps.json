@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_4.News.Entities/1.0.0": {
+        "runtime": {
+          "_4.News.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_4.News.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TlHAarrqzvI8MpSkLDhGcVFCRWNPuLFahV41HfbyjSc=",
+  "Source": "_1.News.RestApi",
+  "BasePath": "_content/_1.News.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
